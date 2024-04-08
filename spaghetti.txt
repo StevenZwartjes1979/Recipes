@@ -4,4 +4,5 @@ Spaghetti
 macaroni/spaghetti groentepakket
 tomatenpuree
 gehakt 500gr
-kruiden
+gehaktkruiden
+sambal
