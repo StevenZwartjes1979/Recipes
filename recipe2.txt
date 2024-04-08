@@ -2,4 +2,5 @@ pannekoeken:
 melk
 suiker
 Stroop
+Honing
 etc.
